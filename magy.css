@@ -1,0 +1,32 @@
+.img1{
+    background-image: url(images/65c300769e92e351d540231f_bg.jpg);
+    animation: 0s;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+.img2{
+    background-image: url(images/65e5b8b549a7aac5dba0e7d3_ankole_kilimani_nightlife\ \(1\).jpg);
+    animation: 5s;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+.img3{
+    background-image: url(images/images\ \(1\).jpeg);
+    animation: 10s;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.img4{
+    background-image: url(images/images\ \(2\).jpeg);
+    animation: 15s;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}

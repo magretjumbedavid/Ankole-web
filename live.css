@@ -1,0 +1,58 @@
+#wendy{
+    width: 100%;
+  height: 100%
+}
+#shitaqua{
+    width: 100%;  
+    height: 100%;
+}
+#liboi{
+    width: 100%; 
+    height: 100%;   
+}
+.live{
+ text-align: center;
+ font-size: 40px;
+ color: blue;
+ 
+}
+@media(width:500px){
+    #wendy{
+        width: 100%;
+      height: 100%
+    }
+    #shitaqua{
+        width: 100%;  
+        height: 100%;
+    }
+    #liboi{
+        width: 100%; 
+        height: 100%;   
+    }
+    .live{
+     text-align: center;
+     font-size: 40px;
+     color: blue;
+     
+    }  
+}
+    @media(max-width:501px){
+        #wendy{
+            width: 130%;
+          height: 110%
+        }
+        #shitaqua{
+            width: 130%;  
+            height: 110%;
+        }
+        #liboi{
+            width: 130%; 
+            height: 110%;   
+        }
+        .live{
+         text-align: center;
+         font-size: 60px;
+         color: rgb(224, 95, 9);
+         
+        }      
+    }

@@ -1,0 +1,76 @@
+  
+    #accra{
+        width: 400px;
+        height: 800px;
+    } 
+    #nairobi{
+   width: 400px;
+    height: 800px;
+    }
+    #zanzibar{
+        width: 450px;
+        height: 800px;
+    }
+    .events-images{
+    width: 500px;
+    
+    }
+    .events{
+        display: flex;
+        gap:200px;
+        position: absolute;
+        top: 200px;
+        color: wheat;
+    }
+
+    @media(max-width:500px){
+        #accra{
+            width: 100%;
+            height: 80%;
+        } 
+        #nairobi{
+       width: 100%;
+        height: 80%;
+        }
+        #zanzibar{
+            width: 100%;
+            height: 80%;
+        }
+        .events-images{
+        width: 100%;
+        
+        }
+        .events{
+            display: flex;
+            position: absolute;
+            top: 140px;
+            color: wheat;
+            left: 100px;
+        }  
+    }
+
+    @media(min-width:501px){
+        #accra{
+            width: 100%;
+            height: 80%;
+        } 
+        #nairobi{
+       width: 100%;
+        height: 80%;
+        }
+        #zanzibar{
+            width: 100%;
+            height: 80%;
+        }
+        .events-images{
+        width: 500px;
+        
+        }
+        .events{
+            display: flex;
+            left: 500px;
+            position: absolute;
+            top: 700px;
+            color:black;
+        } 
+    }

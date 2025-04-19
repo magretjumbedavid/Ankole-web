@@ -1,0 +1,32 @@
+.mango-price{
+    display: flex;
+    gap: 436px;
+  
+  }
+  .pineapple-price{
+    display: flex;
+    gap: 420px;
+  
+  }
+  .orange-price{
+    display: flex;
+    gap: 435px;
+  
+  }
+  .passin-price{
+    display: flex;
+    gap: 435px;
+  }
+  .tomato-price{
+    display: flex;
+    gap: 405px;
+  }
+  .drinks{
+    background-color: palevioletred;
+    color: white;
+    height: 100%;
+  }
+  .juice{
+    text-align: center;
+    color: rgb(231, 72, 72);
+  }

@@ -1,0 +1,30 @@
+.tomato-price{
+    display: flex;
+    gap: 405px;
+  }
+  .coffee-price{
+    display: flex;
+    gap: 319px;
+  
+  }
+  .espreso-price{
+    display: flex;
+    gap: 412px;
+  }
+  .Cappuccino-price{
+    display: flex;
+    gap: 394px;
+  }
+  .latte-price{
+    display: flex;
+    gap: 437px;
+  }
+.breakfast{
+    background-color: palevioletred;
+    color: white;
+   
+}  
+.tea{
+    text-align: center;
+    color: rgb(231, 72, 72);
+}

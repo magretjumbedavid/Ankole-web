@@ -1,0 +1,173 @@
+#mm1{
+  width: 100%;
+  height: 100%;
+}
+.body{
+  display: flex;
+  
+}
+.menu{
+  margin-right: 200px;
+  background-color:purple;
+  color: white;
+  width:150%;
+}
+.menu-kinds{
+  display: flex;
+  gap: 20px;
+
+
+}
+.egg-price{
+  display: flex;
+  gap: 300px;
+}
+.ome-price{
+  display: flex;
+  gap: 360px;
+}
+.omelle-price{
+display: flex;
+gap: 380px;
+
+}
+.sausage-price{
+display: flex;
+gap: 405px;
+
+}
+.bacon-price{
+display: flex;
+gap: 440px;
+
+}
+.mango-price{
+display: flex;
+gap: 436px;
+
+}
+.pineapple-price{
+display: flex;
+gap: 420px;
+
+}
+.orange-price{
+display: flex;
+gap: 435px;
+
+}
+.passin-price{
+display: flex;
+gap: 435px;
+}
+.tomato-price{
+display: flex;
+gap: 405px;
+}
+.coffee-price{
+  display: flex;
+  gap: 319px;
+
+}
+.espreso-price{
+  display: flex;
+  gap: 412px;
+}
+.Cappuccino-price{
+  display: flex;
+  gap: 394px;
+}
+.latte-price{
+  display: flex;
+  gap: 437px;
+}
+@media(max-width:500px){
+  #mm1{
+    width: 100%;
+    height: 100%;
+  }
+  .menu{
+    margin-right: 200px;
+    background-color:purple;
+    color: white;
+    width:100%;
+  }
+  .body{
+    display: flow-root;
+    
+  }
+  .egg-price{
+    display: flex;
+    gap: 50px;
+  }
+  .ome-price{
+    display: flex;
+    gap: 110px;
+  }
+  .omelle-price{
+  display: flex;
+  gap: 130px;
+  
+  }
+  .sausage-price{
+  display: flex;
+  gap: 155px;
+  
+  }
+  .bacon-price{
+  display: flex;
+  gap: 190px;
+  
+  }
+  .mango-price{
+  display: flex;
+  gap: 180px;
+  
+  }
+  .pineapple-price{
+  display: flex;
+  gap: 170px;
+  
+  }
+  .orange-price{
+  display: flex;
+  gap: 185px;
+  
+  }
+  .passin-price{
+  display: flex;
+  gap: 180px;
+  }
+  .tomato-price{
+  display: flex;
+  gap: 150px;
+  }
+  .coffee-price{
+    display: flex;
+    gap: 100px;
+  
+  }
+  .espreso-price{
+    display: flex;
+    gap: 160px;
+  }
+  .Cappuccino-price{
+    display: flex;
+    gap: 170px;
+  }
+  .latte-price{
+    display: flex;
+    gap: 187px;
+  }
+}
+@media(min-width:501px){
+  .menu{
+    margin-right: 200px;
+    background-color:rgb(180, 68, 16);
+    color: white;
+    width:100%;
+  }
+  .body{
+    display: flow-root;
+  }
+}

@@ -1,0 +1,32 @@
+.egg-price{
+    display: flex;
+    gap: 300px;
+  }
+  .ome-price{
+    display: flex;
+    gap: 360px;
+  }
+.omelle-price{
+  display: flex;
+  gap: 380px;
+
+}
+.sausage-price{
+  display: flex;
+  gap: 405px;
+
+}
+.bacon-price{
+  display: flex;
+  gap: 440px;
+
+}
+.foods{
+    background-color: palevioletred;
+    color: white;
+    height: 100%;
+}
+.lunch{
+    text-align: center;
+    color: rgb(231, 72, 72);
+}

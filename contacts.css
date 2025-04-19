@@ -1,0 +1,41 @@
+
+.contacts{
+    display: flex;
+    gap: 400px;
+    margin-top: -50%;
+
+  }  
+  .kili-contacts{
+    border: 2px solid;
+    color: white;
+    
+  }
+  .kiti-contact{
+    border: 2px solid; 
+    color: white;
+  }
+  #serving{
+    width: 100%;
+    height: 100%;
+  }
+  @media(max-width:500px){
+    .contacts{
+        display: flex;
+        gap: 40px;
+        top: 20px;
+    
+      }  
+      .kili-contacts{
+        border: 2px solid;
+        color: white;
+        
+      }
+      .kiti-contact{
+        border: 2px solid; 
+        color: white;
+      }
+      #serving{
+        width: 100%;
+        height: 900px;
+  }
+}

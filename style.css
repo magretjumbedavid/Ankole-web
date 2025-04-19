@@ -1,0 +1,273 @@
+#kilimani-image{
+    width: 100%;
+}
+.navibars{
+    display: flex;
+    background-color: rgb(14, 12, 12);
+    color: white;
+    border-radius: 30%;
+    /* padding: 1%; */
+    width: 50%;
+    margin-top: -10%;
+    margin-left: 24%;
+    position: relative;
+    
+}
+.reservation{
+  border-radius: 30%;  
+  background-color: grey;
+  /* height: 10px; */
+  /* padding-left: 100px; */
+}
+.ankole-logo{
+    width: 10%;
+    margin-bottom: -50%;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 300px;
+    color: white;
+    font-size: 50px;
+    /* transition-duration: 3s; */
+}
+#exp-image{
+    width: 100%;
+}
+.exprience{
+    position: relative;
+    margin-top: -60%;
+    margin-left: 30%;
+    color:white ;
+    }
+    #fruit-image{
+        width: 100%;
+        margin-bottom: -106%;
+    }
+    .welcome{
+        position: relative;
+        margin-top: 60%;
+        color: white;
+        text-align: center;
+        font-size: 60px;
+    }
+    #spice-image{
+        width: 100%;
+        margin-bottom: -90%;  
+    }
+    .saviuor{
+        position: relative;
+        margin-top: 60%;
+        color: white;
+        text-align: center;
+        font-size: 60px;
+    }  
+     #location-image{
+        width: 100%;
+        margin-bottom: -60%;
+    }
+    .taste{
+        position: relative;
+        margin-top: 25%;
+        text-align: center;
+        color: white;
+    }
+    #kitisuru{
+        width: 40%;
+        position: relative; 
+        margin-top: 200px;
+    }
+        
+    /* }
+    #small-image{
+      position: relative; 
+      margin-bottom:0%;
+      padding-left: 200px;
+      
+
+    }
+    .locations{
+        display: flex;
+        width: 90%;
+        
+    }
+    #corons{
+        width: 30px;
+    } */
+    /* .reviews{
+        background-color: black;
+        color: white;
+    }
+    .events{
+        width: 80%;
+        display: flex;
+        gap:0%;
+        margin-right: 300px;
+    }
+    #accra{
+        width: 100%;
+        height:60%
+    }
+    #nairobi{
+        margin-right: -0px;
+        width: 150%;
+        height: 60%;
+    }
+    #zanzibar{
+        height: 60%;
+        width: 190%;
+
+    }
+    .private-event{
+        position: relative;
+        margin-bottom: -60%;
+        color: white;
+        margin-left: 40px;
+    }
+    .lush-greenery{
+        position: relative;
+        margin-bottom: -100%;
+        color: white;  
+    }
+    .space-limit{
+        position: relative;
+        margin-bottom:0% ;
+        color: white;  
+    }
+    
+    .first-artist{
+        margin-bottom:-8px ;
+        position: relative;
+        text-align: center;
+    }
+    #wendy{
+        width: 90%;
+        height: 40%;
+    
+    }
+    #Shitaqua{
+    width: 60%;
+
+        
+    }
+    .last-artists{
+        width: 100%;
+        text-align: center;
+
+    }
+    #serving{
+        width: 100%;
+    }
+    #liboi{
+        width: 90%;
+    }
+    .kili-contacts{
+        border: 2px solid white;
+        margin-right: 0px;
+        width: 50%;
+    margin-top: -400px;
+    color: white;
+    }
+    .kiti-contact{
+        border: 5px solid white;
+        width: 50%;
+        margin-left: 300px;
+        margin-top: -60%;
+        color: white;
+    
+    }
+    #name{
+     width: 80%;  
+     height: 40px; 
+     
+    }
+    #location{
+        width: 80%;
+        height: 40px;
+    }
+    #email{
+        width: 80%;
+        height: 40px;
+    }
+    #tell{
+        width: 80%;
+        height: 40px;
+    }
+    #number{
+        width: 80%;
+        height: 40px;
+    }
+    #date{
+        width: 80%;
+        height: 40px;
+    }
+    #time{
+      width: 80%;
+      height: 40px;
+    }
+    #submit_button{
+        width: 80%;
+        height: 40px;
+    }
+    .booking{
+    margin-bottom: -350%;
+    background-color: black;
+    color: white;
+    }
+    
+    #image{
+        height: -30%;
+       }
+       .kitisuru-location{
+        width: 50%;
+       }
+    .menu{
+        display: flex;
+        gap: 10%;
+    }
+    .kilimani-location{
+        width: 50%;
+    }
+    .kitisuru-location{
+     width: 80%;
+    }
+    
+    
+    
+    
+        
+    
+    
+    
+    
+
+    
+    
+@media (max-width:550px) {
+    #kilimani-image{
+        width: 100%;
+        height: 100%;
+    }
+    #ankole-log{
+        width: 500%;
+        height: 90px;
+        position: relative;
+        margin-bottom: -200%;
+        margin-top:-10%;
+        margin-left:-390%;
+         */
+
+.navibars{
+    display: flex;
+    text-align: justify;
+    width: 70%;
+    font-size: 46%;
+   
+}
+/* .reservation{
+    margin-left:-60%;
+    width: 10%; */
+
+.discover{
+    margin-left: -80%;
+    font-size: 20px;
+}
+

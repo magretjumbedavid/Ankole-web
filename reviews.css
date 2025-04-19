@@ -1,0 +1,28 @@
+
+#corons{
+    width: 30px;
+}
+#corons1{
+    width: 30px;
+    margin-left: 1200px;
+}
+.reviews{
+    background-color: black;
+    color: white;
+    margin-top: 200px;
+}
+@media(max-width:500px){
+    #corons1{
+        width: 30px;
+        margin-left: 299px;
+    }  
+}
+@media(min-width:501px){
+    .reviews{
+        background-color: rgb(53, 61, 50);
+        color: white;
+        margin-top: 200px;
+        font-size: 30px;
+    }
+}
+

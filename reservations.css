@@ -1,0 +1,152 @@
+
+#name{
+    width: 80%;  
+    height: 40px; 
+    
+   }
+   .body{
+    overflow-x: hidden;
+   }
+   #location{
+       width: 80%;
+       height: 40px;
+   }
+   #email{
+       width: 80%;
+       height: 40px;
+   }
+   #tell{
+       width: 80%;
+       height: 40px;
+   }
+   #number{
+       width: 80%;
+       height: 40px;
+   }
+   #date{
+       width: 80%;
+       height: 40px;
+   }
+   #time{
+     width: 80%;
+     height: 40px;
+   }
+   #submit_button{
+       width: 80%;
+       height: 40px;
+   }
+  
+   .booking{
+       background-color: black;
+       color: white;
+       width: 500px;
+       height: 900px;
+   }
+   .kalibu{
+       display: flex;
+       gap: 1%;
+       width: 100%;
+   }
+   #image{
+    width: 60%;
+    height: 900px;
+   }
+
+   @media(max-width:500px){
+    #name{
+        width: 80%;  
+        height: 40px; 
+        
+       }
+       #location{
+           width: 80%;
+           height: 40px;
+       }
+       #email{
+           width: 80%;
+           height: 40px;
+       }
+       #tell{
+           width: 80%;
+           height: 40px;
+       }
+       #number{
+           width: 80%;
+           height: 40px;
+       }
+       #date{
+           width: 80%;
+           height: 40px;
+       }
+       #time{
+         width: 80%;
+         height: 40px;
+       }
+       #submit_button{
+           width: 80%;
+           height: 40px;
+       }
+       #image{
+           width: 60%;
+       }
+       .booking{
+           background-color: black;
+           color: white;
+           width: 500px;
+           height: 100%;
+       }
+       .kalibu{
+           display: flow-root;
+           gap: 1%;
+           width: 100%;
+       }
+   }
+   @media(max-width:501px){
+    #name{
+        width: 80%;  
+        height: 40px; 
+        
+       }
+       #location{
+           width: 80%;
+           height: 40px;
+       }
+       #email{
+           width: 80%;
+           height: 40px;
+       }
+       #tell{
+           width: 80%;
+           height: 40px;
+       }
+       #number{
+           width: 80%;
+           height: 40px;
+       }
+       #date{
+           width: 80%;
+           height: 40px;
+       }
+       #time{
+         width: 80%;
+         height: 40px;
+       }
+       #submit_button{
+           width: 80%;
+           height: 40px;
+       }
+       #image{
+           width: 80%;
+       }
+       .booking{
+           background-color: black;
+           color: white;
+           width: 160%;
+           height: 100%;
+       }
+       .kalibu{
+           display:flex;
+           gap: 1%;
+           width: 160%;
+       }
+   }
